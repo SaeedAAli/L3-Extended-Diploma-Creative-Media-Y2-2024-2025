@@ -1,0 +1,1035 @@
+fileFormatVersion: 2
+guid: 13a2f64f04b349e468e52edebb871aa3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: climbing_Frame_0
+    originalName: 
+    pivot: {x: 0.20353982, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 241
+      y: 854
+      width: 113
+      height: 148
+    spriteID: 0aa798287239dfe498e77d67e46959c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 854}
+  - name: climbing_Frame_1
+    originalName: 
+    pivot: {x: 0.18918918, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 849
+      width: 111
+      height: 148
+    spriteID: e8125bafe0fbd1e4c97c328be9bc2552
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 849}
+  - name: climbing_Frame_2
+    originalName: 
+    pivot: {x: 0.16666666, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 489
+      width: 108
+      height: 148
+    spriteID: 9d4e7b49d6fe05a4b89a87a34e8e5e7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 489}
+  - name: climbing_Frame_3
+    originalName: 
+    pivot: {x: 0.17431194, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 333
+      width: 109
+      height: 148
+    spriteID: ef27dc5d267126d448c1511005e375e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 333}
+  - name: climbing_Frame_4
+    originalName: 
+    pivot: {x: 0.16666666, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 645
+      width: 108
+      height: 148
+    spriteID: 8a9f5dd7514d18445b1d988c522e9a21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 645}
+  - name: climbing_Frame_5
+    originalName: 
+    pivot: {x: 0.16666666, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 801
+      width: 108
+      height: 148
+    spriteID: 015a023e68364904586014559f74ad2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 801}
+  - name: climbing_Frame_6
+    originalName: 
+    pivot: {x: 0.15094338, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 487
+      y: 701
+      width: 106
+      height: 148
+    spriteID: a24c6a8f90b67d74da8c87919e2733bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 487, y: 701}
+  - name: climbing_Frame_7
+    originalName: 
+    pivot: {x: 0.16666666, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 487
+      y: 4
+      width: 108
+      height: 148
+    spriteID: 50699c279021c7e4296de62d97373f0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 487, y: 4}
+  - name: climbing_Frame_8
+    originalName: 
+    pivot: {x: 0.1588785, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 487
+      y: 358
+      width: 107
+      height: 148
+    spriteID: c8ee694a64ee6bb4b9a4c2dd22bd3072
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 487, y: 358}
+  - name: climbing_Frame_9
+    originalName: 
+    pivot: {x: 0.15094338, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 487
+      y: 857
+      width: 106
+      height: 148
+    spriteID: 7cefd142aa514264f8085701e8cf2dec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 487, y: 857}
+  - name: climbing_Frame_10
+    originalName: 
+    pivot: {x: 0.15094338, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 603
+      y: 4
+      width: 106
+      height: 148
+    spriteID: e39340719d15b424f87a18a8485daaa3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 603, y: 4}
+  - name: climbing_Frame_11
+    originalName: 
+    pivot: {x: 0.15094338, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 603
+      y: 160
+      width: 106
+      height: 148
+    spriteID: 6d1b68159abb8704e81a9c4087494b71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 603, y: 160}
+  - name: climbing_Frame_12
+    originalName: 
+    pivot: {x: 0.18181819, y: 0.2364865}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 177
+      width: 110
+      height: 148
+    spriteID: 99f3e800b69fe3144babfc29424415a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 177}
+  - name: climbing_Frame_13
+    originalName: 
+    pivot: {x: 0.23076925, y: 0.22875819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 4
+      width: 117
+      height: 153
+    spriteID: 730efe564bb9d854db823df96979f545
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 4}
+  - name: climbing_Frame_14
+    originalName: 
+    pivot: {x: 0.23076925, y: 0.23026316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 165
+      width: 117
+      height: 152
+    spriteID: fcb9d7abaadf54645b8408478e5049af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 165}
+  - name: climbing_Frame_15
+    originalName: 
+    pivot: {x: 0.21052633, y: 0.23026316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 325
+      width: 114
+      height: 152
+    spriteID: 08741bf75ba468d419361799ffa35c2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 325}
+  - name: climbing_Frame_16
+    originalName: 
+    pivot: {x: 0.18918918, y: 0.23026316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 241
+      y: 694
+      width: 111
+      height: 152
+    spriteID: 63caead1c6392014b966dd81fc3b883e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 694}
+  - name: climbing_Frame_17
+    originalName: 
+    pivot: {x: 0.17431194, y: 0.23026316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 485
+      width: 109
+      height: 152
+    spriteID: 7940e56ef2330574db36057816c12873
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 485}
+  - name: climbing_Frame_18
+    originalName: 
+    pivot: {x: 0.19642858, y: 0.221519}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 241
+      y: 342
+      width: 112
+      height: 158
+    spriteID: bf29d778d20675447b824e7f6050ef1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 342}
+  - name: climbing_Frame_19
+    originalName: 
+    pivot: {x: 0.20353982, y: 0.2173913}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 241
+      y: 4
+      width: 113
+      height: 161
+    spriteID: 40a8c1581235254418b3c9b34a6b9bb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 4}
+  - name: climbing_Frame_20
+    originalName: 
+    pivot: {x: 0.19642858, y: 0.2173913}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 241
+      y: 173
+      width: 112
+      height: 161
+    spriteID: 3d7f9d2099422df408b80f3bc56f48b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 173}
+  - name: climbing_Frame_21
+    originalName: 
+    pivot: {x: 0.18918918, y: 0.21212123}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 4
+      width: 111
+      height: 165
+    spriteID: b0e763cced41c204fba02d9e281313cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 122, y: 4}
+  - name: climbing_Frame_22
+    originalName: 
+    pivot: {x: 0.18181819, y: 0.20833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 110
+      height: 168
+    spriteID: 1985455e6953f154ea72a6cd1be50820
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: climbing_Frame_23
+    originalName: 
+    pivot: {x: 0.14285715, y: 0.20231214}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 105
+      height: 173
+    spriteID: 761486c1fe806624a8c9208cc80f88ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 180}
+  - name: climbing_Frame_24
+    originalName: 
+    pivot: {x: 0.11764707, y: 0.20231214}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 543
+      width: 102
+      height: 173
+    spriteID: 7629110191eb04242bba0ef2e4d7213a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 543}
+  - name: climbing_Frame_25
+    originalName: 
+    pivot: {x: 0.11764707, y: 0.20114943}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 361
+      width: 102
+      height: 174
+    spriteID: 1d0ee6d70eb778e48b26f83b4e5e4585
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 361}
+  - name: climbing_Frame_26
+    originalName: 
+    pivot: {x: 0.08163265, y: 0.19886364}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 724
+      width: 98
+      height: 176
+    spriteID: bf349808253006549b4121e583c831b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 724}
+  - name: climbing_Frame_27
+    originalName: 
+    pivot: {x: 0.06249999, y: 0.19662921}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 241
+      y: 508
+      width: 96
+      height: 178
+    spriteID: cfe22f9ff4105514d93d554d7f475bd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 508}
+  - name: climbing_Frame_28
+    originalName: 
+    pivot: {x: -0.022727251, y: 0.19553073}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 487
+      y: 514
+      width: 88
+      height: 179
+    spriteID: c96df3fa25159f94099e255e92f0d3a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 487, y: 514}
+  - name: climbing_Frame_29
+    originalName: 
+    pivot: {x: -0.05882353, y: 0.19125684}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 603
+      y: 316
+      width: 85
+      height: 183
+    spriteID: e55025c5b9bdeb244908450e9428d254
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 603, y: 316}
+  - name: climbing_Frame_30
+    originalName: 
+    pivot: {x: -0.07142856, y: 0.18421052}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 487
+      y: 160
+      width: 84
+      height: 190
+    spriteID: 0dbc77d9740cf1b45a59b240aed6c256
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 487, y: 160}
+  - name: climbing_Frame_31
+    originalName: 
+    pivot: {x: -0.07142856, y: 0.17857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 362
+      y: 645
+      width: 84
+      height: 196
+    spriteID: 36a75c530482da64f860c1259279b099
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 362, y: 645}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1857752561
+    name: climbing
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: climbing_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 17
+        y: -35
+        width: 113
+        height: 148
+      spriteId: 0aa798287239dfe498e77d67e46959c7
+    - name: climbing_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 19
+        y: -35
+        width: 111
+        height: 148
+      spriteId: e8125bafe0fbd1e4c97c328be9bc2552
+    - name: climbing_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 22
+        y: -35
+        width: 108
+        height: 148
+      spriteId: 9d4e7b49d6fe05a4b89a87a34e8e5e7d
+    - name: climbing_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 21
+        y: -35
+        width: 109
+        height: 148
+      spriteId: ef27dc5d267126d448c1511005e375e7
+    - name: climbing_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 22
+        y: -35
+        width: 108
+        height: 148
+      spriteId: 8a9f5dd7514d18445b1d988c522e9a21
+    - name: climbing_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 22
+        y: -35
+        width: 108
+        height: 148
+      spriteId: 015a023e68364904586014559f74ad2c
+    - name: climbing_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 24
+        y: -35
+        width: 106
+        height: 148
+      spriteId: a24c6a8f90b67d74da8c87919e2733bb
+    - name: climbing_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 22
+        y: -35
+        width: 108
+        height: 148
+      spriteId: 50699c279021c7e4296de62d97373f0d
+    - name: climbing_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 23
+        y: -35
+        width: 107
+        height: 148
+      spriteId: c8ee694a64ee6bb4b9a4c2dd22bd3072
+    - name: climbing_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 24
+        y: -35
+        width: 106
+        height: 148
+      spriteId: 7cefd142aa514264f8085701e8cf2dec
+    - name: climbing_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 24
+        y: -35
+        width: 106
+        height: 148
+      spriteId: e39340719d15b424f87a18a8485daaa3
+    - name: climbing_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 24
+        y: -35
+        width: 106
+        height: 148
+      spriteId: 6d1b68159abb8704e81a9c4087494b71
+    - name: climbing_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 20
+        y: -35
+        width: 110
+        height: 148
+      spriteId: 99f3e800b69fe3144babfc29424415a3
+    - name: climbing_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 13
+        y: -35
+        width: 117
+        height: 153
+      spriteId: 730efe564bb9d854db823df96979f545
+    - name: climbing_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 13
+        y: -35
+        width: 117
+        height: 152
+      spriteId: fcb9d7abaadf54645b8408478e5049af
+    - name: climbing_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 16
+        y: -35
+        width: 114
+        height: 152
+      spriteId: 08741bf75ba468d419361799ffa35c2f
+    - name: climbing_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 19
+        y: -35
+        width: 111
+        height: 152
+      spriteId: 63caead1c6392014b966dd81fc3b883e
+    - name: climbing_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 21
+        y: -35
+        width: 109
+        height: 152
+      spriteId: 7940e56ef2330574db36057816c12873
+    - name: climbing_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 18
+        y: -35
+        width: 112
+        height: 158
+      spriteId: bf29d778d20675447b824e7f6050ef1a
+    - name: climbing_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 17
+        y: -35
+        width: 113
+        height: 161
+      spriteId: 40a8c1581235254418b3c9b34a6b9bb9
+    - name: climbing_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 18
+        y: -35
+        width: 112
+        height: 161
+      spriteId: 3d7f9d2099422df408b80f3bc56f48b2
+    - name: climbing_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 19
+        y: -35
+        width: 111
+        height: 165
+      spriteId: b0e763cced41c204fba02d9e281313cc
+    - name: climbing_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 20
+        y: -35
+        width: 110
+        height: 168
+      spriteId: 1985455e6953f154ea72a6cd1be50820
+    - name: climbing_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 25
+        y: -35
+        width: 105
+        height: 173
+      spriteId: 761486c1fe806624a8c9208cc80f88ae
+    - name: climbing_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 28
+        y: -35
+        width: 102
+        height: 173
+      spriteId: 7629110191eb04242bba0ef2e4d7213a
+    - name: climbing_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 28
+        y: -35
+        width: 102
+        height: 174
+      spriteId: 1d0ee6d70eb778e48b26f83b4e5e4585
+    - name: climbing_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 32
+        y: -35
+        width: 98
+        height: 176
+      spriteId: bf349808253006549b4121e583c831b9
+    - name: climbing_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 34
+        y: -35
+        width: 96
+        height: 178
+      spriteId: cfe22f9ff4105514d93d554d7f475bd9
+    - name: climbing_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 42
+        y: -35
+        width: 88
+        height: 179
+      spriteId: c96df3fa25159f94099e255e92f0d3a6
+    - name: climbing_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 45
+        y: -35
+        width: 85
+        height: 183
+      spriteId: e55025c5b9bdeb244908450e9428d254
+    - name: climbing_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 46
+        y: -35
+        width: 84
+        height: 190
+      spriteId: 0dbc77d9740cf1b45a59b240aed6c256
+    - name: climbing_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 46
+        y: -35
+        width: 84
+        height: 196
+      spriteId: 36a75c530482da64f860c1259279b099
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 176}

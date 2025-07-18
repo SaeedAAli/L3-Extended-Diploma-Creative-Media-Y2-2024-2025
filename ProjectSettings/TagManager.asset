@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grounded
+  - 'Vaulting '
+  - Background
+  - On Top Climbing
+  - Hanging
+  - Climbing
+  - ShortVault
+  - LongVault
+  - Enemy
+  - Coin
+  - SpeedBoost
+  - TutorialEnd
+  - BlockEnemy
+  - EndBarrier
+  - Scoreboard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Objects
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1Sky
+    uniqueID: 3711664013
+    locked: 0
+  - name: 2Building
+    uniqueID: 301107285
+    locked: 0
+  - name: 3Scenery
+    uniqueID: 2517834923
+    locked: 0
+  - name: 4Trees
+    uniqueID: 297082799
+    locked: 0
+  - name: Layer 5 for Background
+    uniqueID: 3531154605
+    locked: 0
+  - name: Platform
+    uniqueID: 3174979467
+    locked: 0
+  - name: Fences
+    uniqueID: 2793028449
+    locked: 0
+  - name: Tilemap
+    uniqueID: 2457133991
+    locked: 0
+  - name: Objects
+    uniqueID: 3187627999
+    locked: 0
+  - name: Vaulting
+    uniqueID: 3552622389
+    locked: 0
+  - name: Player
+    uniqueID: 3087680895
+    locked: 0
+  - name: Enemy
+    uniqueID: 2404307647
+    locked: 0
